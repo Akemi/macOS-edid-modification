@@ -1,0 +1,24 @@
+    | |   |           | |         {
+    | |   |           | |           "IOClass" = "AppleDisplay"
+    | |   |           | |           "CFBundleIdentifier" = "com.apple.iokit.IOGraphicsFamily"
+    | |   |           | |           "IOProviderClass" = "IODisplayConnect"
+    | |   |           | |           "DisplayProductID" = 53349
+    | |   |           | |           "IODisplayEDID" = <00ffffffffffff0010ac65d04c534c3027180104a53c22783e4455a9554d9d260f5054a54b00b300d100714fa9408180778001010101565e00a0a0a029503020350055502100001a000000ff004748383544343953304c534c0a000000fc0044454c4c205532373135480a20000000fd0038561e711e010a202020202020011d02031cf14f1005040302071601141f12132021222309070783010000023a801871382d40582c450055502100001e011d8018711c1620582c250055502100009e011d007251d01e206e28550055502100001e8c0ad08a20e02d10103e9600555021000018483f00ca808030401a50130055502100001e000000000000000000fe>
+    | |   |           | |           "IODisplayPrefsKey" = "IOService:/AppleACPIPlatformExpert/PCI0@0/AppleACPIPCI/PEG0@1/IOPP/PEGP@0/IOPP/pci-bridge@0/IOPP/GFX0@0/ATY,AMD,RadeonFramebuffer@1/AMDFramebufferVega10/display0/AppleDisplay-10ac-d065"
+    | |   |           | |           "IOPowerManagement" = {"CapabilityFlags"=49152,"MaxPowerState"=3,"CurrentPowerState"=3}
+    | |   |           | |           "IOProbeScore" = 2000
+    | |   |           | |           "IODisplayParameters" = {"bgsc"={"min"=0,"max"=65536,"value"=65536},"pscn"={"min"=7500,"max"=10000,"value"=10000},"rgsc"={"min"=0,"max"=65536,"value"=65536},"thrm"={"min"=0,"max"=120,"value"=46},"ggsc"={"min"=0,"max"=65536,"value"=65536},"dith"={"min"=0,"max"=1,"value"=1},"vblm"={"min"=0,"max"=196608,"value"=65536}}
+    | |   |           | |           "IOMatchCategory" = "IODefaultMatchCategory"
+--
+--
+    | |   |           | |         {
+    | |   |           | |           "IOClass" = "AppleDisplay"
+    | |   |           | |           "CFBundleIdentifier" = "com.apple.iokit.IOGraphicsFamily"
+    | |   |           | |           "IOProviderClass" = "IODisplayConnect"
+    | |   |           | |           "DisplayProductID" = 1
+    | |   |           | |           "IODisplayEDID" = <00ffffffffffff001e6d010001010101011b010380a05a780aee91a3544c99260f5054a108003140454061407140818001010101010108e80030f2705a80b0588a0040846300001e023a801871382d40582c450040846300001e000000fd003a791e883c000a202020202020000000fc004c472054560a202020202020200163020360f15a6160101f66650413051403021220212215015d5e5f6263643f402f0957071507505707013d06c06704036e030c001000b83c2000800102030467d85dc401788003e200cfe305c000e3060d01e20f33eb0146d000260a0975805b6c662150b051001b304070360040846300001e0000000000000000000000000001>
+    | |   |           | |           "IODisplayPrefsKey" = "IOService:/AppleACPIPlatformExpert/PCI0@0/AppleACPIPCI/PEG0@1/IOPP/PEGP@0/IOPP/pci-bridge@0/IOPP/GFX0@0/ATY,AMD,RadeonFramebuffer@3/AMDFramebufferVega10/display0/AppleDisplay-1e6d-1"
+    | |   |           | |           "IOPowerManagement" = {"CapabilityFlags"=49152,"MaxPowerState"=3,"CurrentPowerState"=3}
+    | |   |           | |           "IOProbeScore" = 2000
+    | |   |           | |           "IODisplayParameters" = {"bgsc"={"min"=0,"max"=65536,"value"=65536},"pscn"={"min"=7500,"max"=10000,"value"=10000},"rgsc"={"min"=0,"max"=65536,"value"=65536},"thrm"={"min"=0,"max"=120,"value"=45},"ggsc"={"min"=0,"max"=65536,"value"=65536},"dith"={"min"=0,"max"=1,"value"=1},"vblm"={"min"=0,"max"=196608,"value"=65536}}
+    | |   |           | |           "IOMatchCategory" = "IODefaultMatchCategory"
